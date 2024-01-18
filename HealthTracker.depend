@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1704667557 source:f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\main.cpp
+	<Person.h>
+	<Patient.h>
+	<Doctor.h>
+	<Medicine.h>
+	<Disease.h>
+	<Admin.h>
+
+1703933717 source:f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\src\disease.cpp
+	"Disease.h"
+
+1704140827 f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\include\disease.h
+	<iostream>
+	<string.h>
+
+1703933718 source:f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\src\medicine.cpp
+	"Medicine.h"
+
+1704140854 f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\include\medicine.h
+	<iostream>
+	<string.h>
+
+1704666687 source:f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\src\doctor.cpp
+	"Doctor.h"
+
+1704666625 f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\include\doctor.h
+	<Person.h>
+
+1704667340 f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\include\person.h
+	<iostream>
+	<string.h>
+
+1704666625 source:f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\src\person.cpp
+	"Person.h"
+
+1704666712 source:f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\src\patient.cpp
+	"Patient.h"
+
+1704666624 f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\include\patient.h
+	<Person.h>
+	<Doctor.h>
+	<Medicine.h>
+
+1704667261 source:f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\src\admin.cpp
+	"Admin.h"
+
+1704667261 f:\swe fundemental iti round 2023 - 2024\oop_using_c++_eng.nawal_in_iti\projecttest\healthtrackerapp\include\admin.h
+	<Person.h>
+	<Doctor.h>
+	<Patient.h>
+	<Medicine.h>
+	<Disease.h>
+	<iostream>
+	<vector>
+	<string.h>
+	<algorithm>
+
+1705033159 source:e:\iti\c++\project\healthtrackerapp\main.cpp
+	"Person.h"
+	"Patient.h"
+	"Doctor.h"
+	"Admin.h"
+
+1705033099 e:\iti\c++\project\healthtrackerapp\include\person.h
+	<iostream>
+	<string.h>
+	<unistd.h>
+
+1705026479 e:\iti\c++\project\healthtrackerapp\include\patient.h
+	<Person.h>
+	<Doctor.h>
+	<Medicine.h>
+
+1705026835 e:\iti\c++\project\healthtrackerapp\include\doctor.h
+	<Person.h>
+
+1704140854 e:\iti\c++\project\healthtrackerapp\include\medicine.h
+	<iostream>
+	<string.h>
+
+1704140827 e:\iti\c++\project\healthtrackerapp\include\disease.h
+	<iostream>
+	<string.h>
+
+1705026762 e:\iti\c++\project\healthtrackerapp\include\admin.h
+	<Person.h>
+	<Doctor.h>
+	<Patient.h>
+
+1705026765 source:e:\iti\c++\project\healthtrackerapp\src\admin.cpp
+	"Admin.h"
+
+1703933717 source:e:\iti\c++\project\healthtrackerapp\src\disease.cpp
+	"Disease.h"
+
+1705026814 source:e:\iti\c++\project\healthtrackerapp\src\doctor.cpp
+	"Doctor.h"
+
+1703933718 source:e:\iti\c++\project\healthtrackerapp\src\medicine.cpp
+	"Medicine.h"
+
+1705026664 source:e:\iti\c++\project\healthtrackerapp\src\patient.cpp
+	"Patient.h"
+
+1705026706 source:e:\iti\c++\project\healthtrackerapp\src\person.cpp
+	"Person.h"
+
+1705049574 source:e:\iti\c++\project test\healthtrackerapp\src\admin.cpp
+	"Admin.h"
+
+1705036143 e:\iti\c++\project test\healthtrackerapp\include\admin.h
+	<Person.h>
+	<Doctor.h>
+	<Patient.h>
+
+1705049713 e:\iti\c++\project test\healthtrackerapp\include\person.h
+	<iostream>
+	<string.h>
+	<unistd.h>
+
+1705036203 e:\iti\c++\project test\healthtrackerapp\include\doctor.h
+	<Person.h>
+
+1705036244 e:\iti\c++\project test\healthtrackerapp\include\patient.h
+	<Person.h>
+	<Doctor.h>
+	<Medicine.h>
+
+1704140854 e:\iti\c++\project test\healthtrackerapp\include\medicine.h
+	<iostream>
+	<string.h>
+
+1705049648 source:e:\iti\c++\project test\healthtrackerapp\src\doctor.cpp
+	"Doctor.h"
+
+1705036416 source:e:\iti\c++\project test\healthtrackerapp\src\person.cpp
+	"Person.h"
+
+1705049720 source:e:\iti\c++\project test\healthtrackerapp\main.cpp
+	"Person.h"
+	"Patient.h"
+	"Doctor.h"
+	"Admin.h"
+
+1705049614 source:e:\iti\c++\project test\healthtrackerapp\src\patient.cpp
+	"Patient.h"
+
+1705579761 source:e:\iti\c++\project\healthtracker\src\admin.cpp
+	"Admin.h"
+
+1705036143 e:\iti\c++\project\healthtracker\include\admin.h
+	<Person.h>
+	<Doctor.h>
+	<Patient.h>
+
+1705424667 e:\iti\c++\project\healthtracker\include\person.h
+	<iostream>
+	<string.h>
+	<unistd.h>
+
+1705036203 e:\iti\c++\project\healthtracker\include\doctor.h
+	<Person.h>
+
+1705036244 e:\iti\c++\project\healthtracker\include\patient.h
+	<Person.h>
+	<Doctor.h>
+	<Medicine.h>
+
+1704140854 e:\iti\c++\project\healthtracker\include\medicine.h
+	<iostream>
+	<string.h>
+
+1705424736 source:e:\iti\c++\project\healthtracker\src\doctor.cpp
+	"Doctor.h"
+
+1705424865 source:e:\iti\c++\project\healthtracker\src\patient.cpp
+	"Patient.h"
+
+1705036416 source:e:\iti\c++\project\healthtracker\src\person.cpp
+	"Person.h"
+
+1705578228 source:e:\iti\c++\project\healthtracker\main.cpp
+	"Person.h"
+	"Patient.h"
+	"Doctor.h"
+	"Admin.h"
+
